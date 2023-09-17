@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1617226775 source:c:\users\paulius\desktop\masinosobj\main.cpp
+	<iostream>
+	<vector>
+
+1617228595 source:c:\users\paulius\desktop\dokumentai\objprog\masinosobj\main.cpp
+	<iostream>
+	<vector>
+

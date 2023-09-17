@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618503575 source:c:\users\paulius\desktop\bandomassis\main.cpp
+	<iostream>
+	<vector>
+
