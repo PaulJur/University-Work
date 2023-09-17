@@ -1,0 +1,14 @@
+C:\Users\Paulius\Desktop\Visual\actionAndFunc\actionAndFunc\bin\Debug\net6.0\actionAndFunc.exe
+C:\Users\Paulius\Desktop\Visual\actionAndFunc\actionAndFunc\bin\Debug\net6.0\actionAndFunc.deps.json
+C:\Users\Paulius\Desktop\Visual\actionAndFunc\actionAndFunc\bin\Debug\net6.0\actionAndFunc.runtimeconfig.json
+C:\Users\Paulius\Desktop\Visual\actionAndFunc\actionAndFunc\bin\Debug\net6.0\actionAndFunc.dll
+C:\Users\Paulius\Desktop\Visual\actionAndFunc\actionAndFunc\bin\Debug\net6.0\actionAndFunc.pdb
+C:\Users\Paulius\Desktop\Visual\actionAndFunc\actionAndFunc\obj\Debug\net6.0\actionAndFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulius\Desktop\Visual\actionAndFunc\actionAndFunc\obj\Debug\net6.0\actionAndFunc.AssemblyInfoInputs.cache
+C:\Users\Paulius\Desktop\Visual\actionAndFunc\actionAndFunc\obj\Debug\net6.0\actionAndFunc.AssemblyInfo.cs
+C:\Users\Paulius\Desktop\Visual\actionAndFunc\actionAndFunc\obj\Debug\net6.0\actionAndFunc.csproj.CoreCompileInputs.cache
+C:\Users\Paulius\Desktop\Visual\actionAndFunc\actionAndFunc\obj\Debug\net6.0\actionAndFunc.dll
+C:\Users\Paulius\Desktop\Visual\actionAndFunc\actionAndFunc\obj\Debug\net6.0\refint\actionAndFunc.dll
+C:\Users\Paulius\Desktop\Visual\actionAndFunc\actionAndFunc\obj\Debug\net6.0\actionAndFunc.pdb
+C:\Users\Paulius\Desktop\Visual\actionAndFunc\actionAndFunc\obj\Debug\net6.0\actionAndFunc.genruntimeconfig.cache
+C:\Users\Paulius\Desktop\Visual\actionAndFunc\actionAndFunc\obj\Debug\net6.0\ref\actionAndFunc.dll

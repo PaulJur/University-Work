@@ -1,0 +1,14 @@
+C:\Users\Paulius\Desktop\Visual\Execptionsandprobmore\Execptionsandprobmore\bin\Debug\net6.0\Execptionsandprobmore.exe
+C:\Users\Paulius\Desktop\Visual\Execptionsandprobmore\Execptionsandprobmore\bin\Debug\net6.0\Execptionsandprobmore.deps.json
+C:\Users\Paulius\Desktop\Visual\Execptionsandprobmore\Execptionsandprobmore\bin\Debug\net6.0\Execptionsandprobmore.runtimeconfig.json
+C:\Users\Paulius\Desktop\Visual\Execptionsandprobmore\Execptionsandprobmore\bin\Debug\net6.0\Execptionsandprobmore.dll
+C:\Users\Paulius\Desktop\Visual\Execptionsandprobmore\Execptionsandprobmore\bin\Debug\net6.0\Execptionsandprobmore.pdb
+C:\Users\Paulius\Desktop\Visual\Execptionsandprobmore\Execptionsandprobmore\obj\Debug\net6.0\Execptionsandprobmore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulius\Desktop\Visual\Execptionsandprobmore\Execptionsandprobmore\obj\Debug\net6.0\Execptionsandprobmore.AssemblyInfoInputs.cache
+C:\Users\Paulius\Desktop\Visual\Execptionsandprobmore\Execptionsandprobmore\obj\Debug\net6.0\Execptionsandprobmore.AssemblyInfo.cs
+C:\Users\Paulius\Desktop\Visual\Execptionsandprobmore\Execptionsandprobmore\obj\Debug\net6.0\Execptionsandprobmore.csproj.CoreCompileInputs.cache
+C:\Users\Paulius\Desktop\Visual\Execptionsandprobmore\Execptionsandprobmore\obj\Debug\net6.0\Execptionsandprobmore.dll
+C:\Users\Paulius\Desktop\Visual\Execptionsandprobmore\Execptionsandprobmore\obj\Debug\net6.0\refint\Execptionsandprobmore.dll
+C:\Users\Paulius\Desktop\Visual\Execptionsandprobmore\Execptionsandprobmore\obj\Debug\net6.0\Execptionsandprobmore.pdb
+C:\Users\Paulius\Desktop\Visual\Execptionsandprobmore\Execptionsandprobmore\obj\Debug\net6.0\Execptionsandprobmore.genruntimeconfig.cache
+C:\Users\Paulius\Desktop\Visual\Execptionsandprobmore\Execptionsandprobmore\obj\Debug\net6.0\ref\Execptionsandprobmore.dll
