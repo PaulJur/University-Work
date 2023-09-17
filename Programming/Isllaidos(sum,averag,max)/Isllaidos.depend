@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605052038 source:c:\users\paulius\desktop\isllaidos\main.cpp
+	<iostream>
+	<iomanip>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605052158 source:c:\users\paulius\desktop\programming\isllaidos(sum,averag,max)\main.cpp
+	<iostream>
+	<iomanip>
+
