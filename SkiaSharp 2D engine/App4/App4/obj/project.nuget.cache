@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rfZv/bVlxUFQ3YmO9d4jmvhFdZsn5tjuOoMag9f+UGA72TT93v/6UC+f7eAy2avaxDfn1xT5FEmAoRpOFqfHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paulius\\Desktop\\2d engine\\App4\\App4\\App4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.windowsappsdk\\1.0.0\\microsoft.windowsappsdk.1.0.0.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\skiasharp\\2.88.0-preview.209\\skiasharp.2.88.0-preview.209.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.0-preview.209\\skiasharp.nativeassets.macos.2.88.0-preview.209.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.0-preview.209\\skiasharp.nativeassets.win32.2.88.0-preview.209.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\skiasharp.views.winui\\2.88.0-preview.209\\skiasharp.views.winui.2.88.0-preview.209.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.17\\microsoft.netcore.app.runtime.win-x86.5.0.17.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.26\\microsoft.windows.sdk.net.ref.10.0.19041.26.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.17\\microsoft.aspnetcore.app.runtime.win-x86.5.0.17.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\5.0.17\\microsoft.netcore.app.host.win-arm64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\5.0.17\\microsoft.netcore.app.runtime.win-arm64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.17\\microsoft.aspnetcore.app.runtime.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\5.0.17\\microsoft.windowsdesktop.app.runtime.win-arm64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.17\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\5.0.17\\microsoft.aspnetcore.app.runtime.win-arm64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.17\\microsoft.netcore.app.runtime.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.17\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.17.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\5.0.17\\microsoft.netcore.app.host.win-x86.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
