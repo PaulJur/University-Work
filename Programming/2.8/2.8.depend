@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602079814 source:c:\users\paulius\desktop\2.8\main.cpp
+	<iostream>
+	<string>
+
+1602076488 source:c:\users\paulius\desktop\programming\2.8\main.cpp
+	<iostream>
+	<string>
+
