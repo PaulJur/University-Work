@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603317352 source:c:\users\paulius\desktop\rulonines vejos\main.cpp
+	<iostream>
+	<math.h>
+

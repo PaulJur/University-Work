@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605140485 source:c:\users\paulius\desktop\apranga\main.cpp
+	<iostream>
+	<iomanip>
+
